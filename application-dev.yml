@@ -1,4 +1,3 @@
-from:  HHH
 server:
   port: 8080
 spring:
